@@ -1,0 +1,14 @@
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\bin\Debug\net8.0\CalculatorLoh.exe
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\bin\Debug\net8.0\CalculatorLoh.deps.json
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\bin\Debug\net8.0\CalculatorLoh.runtimeconfig.json
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\bin\Debug\net8.0\CalculatorLoh.dll
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\bin\Debug\net8.0\CalculatorLoh.pdb
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.AssemblyInfoInputs.cache
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.AssemblyInfo.cs
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.csproj.CoreCompileInputs.cache
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.dll
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\refint\CalculatorLoh.dll
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.pdb
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\CalculatorLoh.genruntimeconfig.cache
+C:\Users\Fantast\source\repos\CalculatorLoh\CalculatorLoh\obj\Debug\net8.0\ref\CalculatorLoh.dll
